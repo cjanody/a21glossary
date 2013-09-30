@@ -1,16 +1,16 @@
 # TYPO3 Extension "a21glossary"
 A21 Glossary - automatical conversion of all abbreviations and acronyms in the special tags for accessibility issues
 
-## Version 0.4.11
+## Version 0.9.0
 
 
 
 
 <table>
-	<tr><td>Version</td><td>0.4.11 beta</td></tr>
-	<tr><td>Release date</td><td>11. March 2009</td></tr>
-	<tr><td>Comment</td><td>Security fix. Please update! Fixes SQL Injection as described in TYPO3-SA-2009-003.
-/TYPO3 Security Team (mkr)</td></tr>
+	<tr><td>Version</td><td>0.9.0 stable</td></tr>
+	<tr><td>Release date</td><td>01. November 2011</td></tr>
+	<tr><td>Author</td><td>Ronny Vorpahl</td></tr>
+	<tr><td>Comment</td><td>Complete rewrite of glossary, lots of new behavioral and debug features.</td></tr>
 </table>
 
 ## !! Attention !!

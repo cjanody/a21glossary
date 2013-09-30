@@ -11,33 +11,33 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array (
-	'title' => 'Accessibility Glossary',
-	'description' => 'A glossary associated with automatical conversion of all abbreviations and acronyms in the special tags for accessibility issues.',
+	'title' => 'A21 Glossary',
+	'description' => 'A21 Glossary - automatical conversion of all abbreviations and acronyms in the special tags for accessibility issues',
 	'category' => 'fe',
 	'shy' => 0,
-	'version' => '0.4.11',
+	'version' => '0.9.0',
 	'dependencies' => '',
 	'conflicts' => '',
 	'priority' => '',
 	'loadOrder' => '',
 	'module' => '',
-	'state' => 'beta',
+	'state' => 'stable',
 	'uploadfolder' => 0,
 	'createDirs' => 'uploads/tx_a21glossary/rte/',
 	'modify_tables' => '',
-	'clearcacheonload' => 0,
+	'clearcacheonload' => 1,
 	'lockType' => '',
-	'author' => '',
-	'author_email' => 'info at artplan21 de',
-	'author_company' => '@rtplan[21] webconcepts & solutions GmbH',
+	'author' => 'Ronny Vorpahl',
+	'author_email' => 'info@artplan21.de',
+	'author_company' => 'Artplan21 GmbH. - www.artplan21.de',
 	'CGLcompliance' => NULL,
 	'CGLcompliance_note' => NULL,
 	'constraints' => 
 	array (
 		'depends' => 
 		array (
-			'php' => '3.0.0-0.0.0',
-			'typo3' => '3.5.0-0.0.0',
+			'php' => '5.1.0-0.0.0',
+			'typo3' => '4.1.0-0.0.0',
 		),
 		'conflicts' => 
 		array (
