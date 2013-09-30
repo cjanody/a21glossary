@@ -3,7 +3,7 @@
 /***************************************************************
  * Extension Manager/Repository config file for ext "a21glossary".
  *
- * Auto generated 30-09-2013 14:11
+ * Auto generated 30-09-2013 14:12
  *
  * Manual updates:
  * Only the data in the array - everything else is removed by next
@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array (
 	'description' => 'A21 Glossary - automatical conversion of all abbreviations and acronyms in the special tags for accessibility issues',
 	'category' => 'fe',
 	'shy' => 0,
-	'version' => '0.9.0',
+	'version' => '0.9.1',
 	'dependencies' => '',
 	'conflicts' => '',
 	'priority' => '',

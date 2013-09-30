@@ -1,16 +1,16 @@
 # TYPO3 Extension "a21glossary"
 A21 Glossary - automatical conversion of all abbreviations and acronyms in the special tags for accessibility issues
 
-## Version 0.9.0
+## Version 0.9.1
 
 
 
 
 <table>
-	<tr><td>Version</td><td>0.9.0 stable</td></tr>
-	<tr><td>Release date</td><td>01. November 2011</td></tr>
+	<tr><td>Version</td><td>0.9.1 stable</td></tr>
+	<tr><td>Release date</td><td>03. November 2011</td></tr>
 	<tr><td>Author</td><td>Ronny Vorpahl</td></tr>
-	<tr><td>Comment</td><td>Complete rewrite of glossary, lots of new behavioral and debug features.</td></tr>
+	<tr><td>Comment</td><td>minor bugfix (HTML validity)</td></tr>
 </table>
 
 ## !! Attention !!
