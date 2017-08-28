@@ -1,25 +1,11 @@
 # TYPO3 Extension "a21glossary"
 A21 Glossary - automatical conversion of all abbreviations and acronyms in the special tags for accessibility issues
 
-## Version 0.9.4
-
-
-
+## Version 6.2.1
 
 <table>
-	<tr><td>Version</td><td>0.9.4 stable</td></tr>
-	<tr><td>Release date</td><td>08. December 2011</td></tr>
+	<tr><td>Version</td><td>6.2.1 stable</td></tr>
+	<tr><td>Release date</td><td>06. January 2016</td></tr>
 	<tr><td>Author</td><td>Ronny Vorpahl</td></tr>
-	<tr><td>Comment</td><td>added a second (more accessible) configuration, several bugfixes</td></tr>
+	<tr><td>Comment</td><td> [BUGFIX] remove unallowed static usage of ContentObjectRenderer::enableFields() - thanks to Klaus Bitto</td></tr>
 </table>
-
-## !! Attention !!
-This is an **automatically** generated git version, based on the release into the [TYPO3 Extension Repository](http://www.typo3.org/extensions/).
-You can find the original version at http://typo3.org/extensions/repository/view/a21glossary/ .
-
-It does not make sense to make pull requests as this repository has been created automatically from 3rd party, not from the original author(s).
-
-Every version of the extension is tagged with the version number, therefore you can switch quite easily between different versions.
-
-
--- never edit the line below (typo3-ter) --
